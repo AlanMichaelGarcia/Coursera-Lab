@@ -1,0 +1,6 @@
+@responsive_web_design_HostAddress = http://localhost:5243
+
+GET {{responsive_web_design_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

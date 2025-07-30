@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9WWs2c+B0Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alan\\Full stack learning\\responsive web design\\responsive web design.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\Alan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
